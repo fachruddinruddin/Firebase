@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:latihan5_firebase/view/login_page.dart';
 import 'services/firebase_options.dart';
 
 void main() async {
